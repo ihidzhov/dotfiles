@@ -18,4 +18,6 @@ brew install composer
 
 brew install git
 
+brew install node
+
 brew cleanup
