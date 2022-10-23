@@ -14,6 +14,8 @@ brew install screen
 
 brew install php
 
+brew install composer
+
 brew install git
 
 brew cleanup
